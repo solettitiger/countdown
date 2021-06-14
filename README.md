@@ -5,6 +5,7 @@ Countdown is a kind of alarm clock that reminds you of the next task. It plays a
 
 ## Usage
 You set the timer with the reminder text and the time you want to be reminded. The range of time ahead is less the 24:00.
+
 ![alt text](images/01.png)
 ![alt text](images/02.png)
 
